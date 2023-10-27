@@ -1,0 +1,13 @@
+{
+  "main": "craftsoft_b32-weekend_class_team.raml",
+  "name": "Craftsoft_B32-Weekend_class_Team",
+  "groupId": "bf91b616-29d1-49ca-9a2d-b7111a51ddfc",
+  "assetId": "craftsoft_b32-weekend_class_team",
+  "version": "1.0.0",
+  "classifier": "raml",
+  "tags": [],
+  "descriptorVersion": "1.0.0",
+  "organizationId": "bf91b616-29d1-49ca-9a2d-b7111a51ddfc",
+  "apiVersion": "v1",
+  "originalFormatVersion": "1.0"
+}
